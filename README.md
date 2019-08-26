@@ -9,3 +9,5 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
+¿A qué hora prefieren alimentarse las hormigas?
+¿Qué tiempo tardan las hormigas en encotar el cebo?
