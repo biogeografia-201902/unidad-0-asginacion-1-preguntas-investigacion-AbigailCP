@@ -11,7 +11,13 @@ Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
 ¿A qué hora prefieren alimentarse las hormigas?
 
-* Comentario de @geofis: Interesante la pregunta, primero porque cumple con los requisitos exigidos, y porque seguramente saldrán nuevos resultados. No la abandones, pero intenta añadir alguna pregunta relacionada con factores espaciales o físicos, no sólo el factor tiempo. Por ejemplo, podrías plantearte, además de ésta pregunta, si la hora de alimentarse varía en función del tipo de lugar del campus.
+* Comentario de @geofis: Interesante la pregunta, primero porque cumple con los requisitos exigidos, y porque seguramente saldrán nuevos resultados. No la abandones, pero intenta añadir alguna pregunta relacionada con factores espaciales o físicos, no sólo el factor tiempo. Por ejemplo, podrías plantearte, además de ésta pregunta, si la hora de alimentarse varía en función del tipo de lugar del campus.\
+
+¿Qué relacion hay entre la hora en que se alimentan y el lugar donde se encontran las hormigas?
+
+de a ver varias especies en el area de nuestreo ¿cual es la más abundatente? 
+¿tendrán conflicto por los alimentos?
+¿cada esciecie tiene una hora de alimentacion especifica dentro del area?
 
 
 * Comentario de @geofis: Otro detalle: te refieres a "las hormigas"" de manera global. Dado que no podemos obviar los taxones, es importante que incluyas en tus preguntas la diversidad; no se puede esperar un mismo patrón de horario para todas las especies, éste seguro variará según la especie.
